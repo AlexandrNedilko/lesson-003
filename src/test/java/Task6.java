@@ -17,7 +17,7 @@ public class Task6 {
             }
             n = n / 10;
         }
-
+        if ( n < 0) s =-1;
         System.out.print("\nSum of Even Digits :" + s);
 
     }

@@ -2,12 +2,15 @@
         If one of the parameters is < 10, method should return -1 to indicate an invalid value.
         The method should return the greatest common divisor of two numbers.*/
 
-/*
+
 
 public class Task7 {
 
     public static void main(String[] args) {
-    //public static int getGreatestCommonDivisor(int first, int second){
+        int del = getGreatestCommonDivisor(20, 40);
+        System.out.println(del);
+    }
+    public static int getGreatestCommonDivisor(int first, int second){
         if(first < 10 || second < 10) return -1;
         if(first < second){
             int temp = first;
@@ -22,4 +25,4 @@ public class Task7 {
         return 1;
     }
 
-}*/
+}

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bea08e17-8164-46a7-be0e-c2d1bf4c8e63" name="Default Changelist" comment="" />
+    <list default="true" id="bea08e17-8164-46a7-be0e-c2d1bf4c8e63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Task6.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Task6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="20" selection-start-line="4" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="323">
+              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="26" />
               <folding>
                 <element signature="e#0#658#0" expanded="true" />
               </folding>
@@ -64,13 +69,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Task7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="294">
+              <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
               <folding>
-                <element signature="e#0#975#0" expanded="true" />
+                <element signature="e#0#790#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -135,10 +140,10 @@
         <option value="$PROJECT_DIR$/src/test/java/Task8.java" />
         <option value="$PROJECT_DIR$/src/test/java/Task4.java" />
         <option value="$PROJECT_DIR$/src/test/java/GreatestCommonDivisor.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Task6.java" />
         <option value="$PROJECT_DIR$/src/test/java/Task5.java" />
         <option value="$PROJECT_DIR$/src/test/java/Task9.java" />
         <option value="$PROJECT_DIR$/src/test/java/Task10.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Task6.java" />
         <option value="$PROJECT_DIR$/src/test/java/Task7.java" />
       </list>
     </option>
@@ -165,13 +170,6 @@
       </expand>
       <select />
     </treeState>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="344" />
@@ -218,6 +216,10 @@
       </pane>
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -230,17 +232,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Task11" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Task11" />
+  <component name="RunManager" selected="Application.Task7">
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Task6" />
       <module name="lesson-003" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task7" />
+      <module name="lesson-003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Task6" />
+      <item itemvalue="Application.Task7" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task11" />
+        <item itemvalue="Application.Task7" />
+        <item itemvalue="Application.Task6" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +272,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="696" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -270,12 +284,12 @@
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.1971831" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.19715808" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32827735" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.19715808" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -381,16 +395,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Task6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" selection-start-line="4" selection-end-line="4" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#658#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Task5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -407,10 +411,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Task7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="294">
+          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
           <folding>
-            <element signature="e#0#975#0" expanded="true" />
+            <element signature="e#0#790#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Task6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#658#0" expanded="true" />
           </folding>
         </state>
       </provider>
